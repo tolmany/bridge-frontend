@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="11" height="11" viewBox="0 0 11 11" xml:space="preserve">
+<desc>Created with Fabric.js 4.2.0</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 5.5 5.5)" id="e0bfe664-c5b6-4c6d-b520-2f1e563e6145"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-5.5" y="-5.5" rx="0" ry="0" width="11" height="11" />
+</g>
+<g transform="matrix(Infinity NaN NaN Infinity 0 0)" id="33a1b248-7768-444c-b01f-5ed34276c2ce"  >
+</g>
+<g transform="matrix(1 0 0 1 -88.94 5.5)" style="" id="4763aaae-b757-4126-a5c8-4ee913644919"  >
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-45.48" y="-21.33" >Body</tspan><tspan x="-34.88" y="46.47" >text</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 5.5 5.5)" style="" id="fbe4576a-1474-4bb6-a8b7-055033625364"  >
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-139.92" y="-21.33" >eeadsfasdfBody</tspan><tspan x="-34.88" y="46.47" >text</tspan></text>
+</g>
+<g transform="matrix(0.04 0 0 0.08 5.5 5.74)" style="" id="fb63655e-aaa8-4d1f-9b01-8c5e9230c83c"  >
+		<text xml:space="preserve" font-family="Alegreya" font-size="200" font-style="normal" font-weight="900" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-66.7" y="62.83" >E</tspan></text>
+</g>
+</svg>
